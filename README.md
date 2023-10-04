@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Abhinav Garg</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="left">Hi 👋, I'm Abhinav Garg</h1>
 
-- 🔭 I’m currently working on [portfolio_v2](https://github.com/ombhinav/portfolio_v2)
 
-- 🌱 I’m currently learning **JavaScript and Machine Learning**
+- Working on [portfolio_v2](https://github.com/ombhinav/portfolio_v2)
 
-- 👨‍💻 All of my projects are available at [https://abhinavgarg.vercel.app](https://abhinavgarg.vercel.app)
+- Currently learning **JavaScript and Machine Learning**
 
-- 💬 Ask me about **SciKit Learn and Pandas**
+- All of my projects are available at [https://abhinavgarg.vercel.app](https://abhinavgarg.vercel.app)
 
 - 📫 How to reach me **abhinavgarg0077@gmail.com**
 
