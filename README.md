@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Abhinav Garg</h1>
+<h1 align="left">\hi, Abhinav here</h1>
 
 
 - Working on [portfolio_v2](https://github.com/ombhinav/portfolio_v2)
