@@ -1,4 +1,4 @@
-<h1 align="left">\hi, Abhinav here</h1>
+<h1 align="left">Hi, Abhinav here </h1>
 
 
 - Working on [portfolio_v2](https://github.com/ombhinav/portfolio_v2)
@@ -7,7 +7,7 @@
 
 - All of my projects are available at [https://abhinavgarg.vercel.app](https://abhinavgarg.vercel.app)
 
-- 📫 How to reach me **abhinavgarg0077@gmail.com**
+- How to reach me : **abhinavgarg0077@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
