@@ -3,7 +3,7 @@
 
 - Working on [portfolio_v2](https://github.com/ombhinav/portfolio_v2)
 
-- Currently learning **JavaScript and Machine Learning**
+- Currently learning **React and Next.js**
 
 - All of my projects are available at [https://abhinavgarg.vercel.app](https://abhinavgarg.vercel.app)
 
