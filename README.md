@@ -1,13 +1,15 @@
 <h1 align="left">Hi, Abhinav here </h1>
 
 
-- Working on [portfolio_v2](https://github.com/ombhinav/portfolio_v2)
+- Computer Science undergrad.
 
-- Currently learning **React and Next.js**
+- Love to build softwares that is absolutely adorable.
 
 - All of my projects are available at [https://abhinavgarg.vercel.app](https://abhinavgarg.vercel.app)
 
-- How to reach me : **abhinavgarg0077@gmail.com**
+- How to reach me : [**abhinavgarg0077@gmail.com**](https://linkedin.com/in/abhinavgarg0077)
+
+- Linkedin : **@abhinavgarg0077**
 
 
 
