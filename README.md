@@ -3,7 +3,7 @@
 
 - Computer Science undergrad.
 
-- Love to build softwares that is absolutely adorable.
+- Love to build reliable and adorable softwares 
 
 - All of my projects are available at [https://abhinavgarg.vercel.app](https://abhinavgarg.vercel.app)
 
