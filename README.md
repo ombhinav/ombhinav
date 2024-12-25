@@ -9,7 +9,7 @@
 
 - How to reach me : [**abhinavgarg0077@gmail.com**](https://linkedin.com/in/abhinavgarg0077)
 
-- Linkedin : **@abhinavgarg0077**
+- Linkedin : [**@abhinavgarg0077**](https://www.linkedin.com/in/abhinavgarg0077)
 
 
 
